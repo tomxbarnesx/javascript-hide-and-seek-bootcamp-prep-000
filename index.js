@@ -1,2 +1,3 @@
-getFirstSelector(selector)
-  document.
+function getFirstSelector(selector){
+  document.quertSelector(selector);
+  }
