@@ -1,0 +1,2 @@
+getFirstSelector(selector)
+  document.
